@@ -1,3 +1,5 @@
+Credit for this build goes to fabu21
+
 # Bitcoin Beach Wallet Fiat Invoices
 
 This app can create Lightning Invoices for the Bitcoin Beach Wallet in Quezales (Currency in Guatemala) or other fiat currencies. 
