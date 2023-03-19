@@ -13,7 +13,7 @@ function App() {
     return (
         <>
             <Layout>
-                <Header><img src={require('./assets/Lago_Bitcoin_logo.jpg')} alt="Logo" className='logo'></img></Header>
+                <Header><img src={require('./assets/bullish_guate_logo.jpg')} alt="Logo" className='logo'></img></Header>
                 <Content>
                     {!userName ?
                         <SetReceiver />
@@ -21,7 +21,7 @@ function App() {
                         <TypePad />
                     }
                 </Content>
-                <Footer>Powered by <a href="http://bitcoinlake.io/" target="_blank" rel="noreferrer">bitcoinlake.io</a> <a href="https://github.com/fabu21/bbw-fiat-invoices" rel="noreferrer" target="_blank"><GithubOutlined /></a></Footer>
+                <Footer>In collaboration with <a href="http://bitcoinlake.io/" target="_blank" rel="noreferrer">bitcoinlake.io</a> <a href="https://github.com/fabu21/bbw-fiat-invoices" rel="noreferrer" target="_blank"><GithubOutlined /></a></Footer>
             </Layout>
         </>
     );

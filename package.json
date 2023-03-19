@@ -1,7 +1,7 @@
 {
-  "name": "bbw-fiat-invoices",
+  "name": "pagar-bullishguate",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": ".",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
